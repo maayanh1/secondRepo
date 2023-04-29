@@ -1,1 +1,2 @@
 This is file3.txt created loaclly
+This is just a bugfix
